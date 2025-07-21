@@ -1,5 +1,4 @@
 # 💫 About Me:
-Sou o matheus e sou desenvolvedor de softwares 
 
 ![Status](./profile-3d-contrib/profile-night-green.svg)
 

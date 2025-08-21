@@ -2,7 +2,7 @@
 const matheus = {
   age: 20,
   state: RJ,
-  stack: [java, typescript, aws],
+  stack: [Java, TypeScript, AWS],
 };
 ```
 ![Status](./profile-3d-contrib/profile-night-green.svg)
